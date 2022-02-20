@@ -1,0 +1,15 @@
+C:\dev\Work_Personal\TBA\TBATest\bin\Debug\net6.0\TBATest.exe
+C:\dev\Work_Personal\TBA\TBATest\bin\Debug\net6.0\TBATest.deps.json
+C:\dev\Work_Personal\TBA\TBATest\bin\Debug\net6.0\TBATest.runtimeconfig.json
+C:\dev\Work_Personal\TBA\TBATest\bin\Debug\net6.0\TBATest.dll
+C:\dev\Work_Personal\TBA\TBATest\bin\Debug\net6.0\TBATest.pdb
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\TBATest.csproj.AssemblyReference.cache
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\TBATest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\TBATest.AssemblyInfoInputs.cache
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\TBATest.AssemblyInfo.cs
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\TBATest.csproj.CoreCompileInputs.cache
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\TBATest.dll
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\refint\TBATest.dll
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\TBATest.pdb
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\TBATest.genruntimeconfig.cache
+C:\dev\Work_Personal\TBA\TBATest\obj\Debug\net6.0\ref\TBATest.dll
